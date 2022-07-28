@@ -48,3 +48,28 @@ probabilities.
 ![Equality](data/PPO_8M/metrics_map_meltingpot_prob_meltingpot/equality.jpg)
 ### Peacefulness 
 ![Peacefulness](data/PPO_8M/metrics_map_meltingpot_prob_meltingpot/peacefulness.jpg)
+
+
+
+## A3C shared weights
+
+### MAP: Parolat PROB: Meltingpot
+
+### Efficiency 
+![Efficiency](data/A3C_8M/map_parolat_prob_meltingpot/efficiency.jpeg)
+### Equality 
+![Equality](data/A3C_8M/map_parolat_prob_meltingpot/equality.jpeg)
+### Peacefulness 
+![Peacefulness](data/A3C_8M/map_parolat_prob_meltingpot/peacefulness.jpeg)
+
+
+### MAP: Meltingpot PROB: Meltingpot
+[Policy Video](https://www.youtube.com/watch?v=SbtGqU7RKsI)
+
+
+### Efficiency 
+![Efficiency](data/A3C_8M/map_meltingpot_prob_meltingpot/efficiency.jpg)
+### Equality 
+![Equality](data/A3C_8M/map_meltingpot_prob_meltingpot/equality.jpg)
+### Peacefulness 
+![Peacefulness](data/A3C_8M/map_meltingpot_prob_meltingpot/peacefulness.jpg)
